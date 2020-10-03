@@ -1,2 +1,2 @@
-# My-selenium-scripts
-Web automation tests using selenium webdriver.
+# My selenium scripts
+Web automation scripts using selenium webdriver.
